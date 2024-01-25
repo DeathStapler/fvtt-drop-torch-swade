@@ -8,9 +8,9 @@
       "verified": "11",
       "maximum": "11"
     },
-    "download": "https://github.com/DeathStapler/fvtt-drawing-tile-alignment/archive/refs/v1.0.0/main.zip",
-    "url": "https://github.com/DeathStapler/fvtt-drawing-tile-alignment",
-    "manifest": "https://github.com/DeathStapler/fvtt-drawing-tile-alignment/v1.0.0/module.json",
+    "download": "https://github.com/DeathStapler/fvtt-light-up-my-token-swad/archive/refs/v1.0.0/main.zip",
+    "url": "https://github.com/DeathStapler/fvtt-light-up-my-token-swad",
+    "manifest": "https://github.com/DeathStapler/fvtt-light-up-my-token-swad/v1.0.0/module.json",
     "esmodules": [
         "src/main.js"
     ],
@@ -19,11 +19,6 @@
             "lang": "en",
             "name": "English",
             "path": "lang/en.json"
-        },
-        {
-            "lang": "ja",
-            "name": "日本語",
-            "path": "lang/ja.json"
         }
     ],
     "authors": [
