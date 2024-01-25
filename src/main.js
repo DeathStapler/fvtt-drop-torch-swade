@@ -4,6 +4,9 @@ Hooks.on("ready", () => {
   Hooks.on("renderTokenHUD", (app, html, data) => {
     Light.addTorchButton(app, html, data);
   });
+
+  Settings.register();
+
 });
 
 Hooks.on("getSceneControlButtons", (controls) => {
