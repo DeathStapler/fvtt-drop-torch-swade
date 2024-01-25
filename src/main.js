@@ -1,6 +1,8 @@
+import Light from "./classes/Light.js";
+
 Hooks.on("ready", () => {
   Hooks.on("renderTokenHUD", (app, html, data) => {
-    Torch.addTorchButton(app, html, data);
+    Light.addTorchButton(app, html, data);
   });
 });
 
